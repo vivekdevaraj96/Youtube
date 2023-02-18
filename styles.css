@@ -1,0 +1,37 @@
+#navigationbar{
+    display:flex;
+    justify-content:space-between;
+    height:100px
+    
+}
+
+
+#ytlogo{
+    height:100px;
+}
+
+#inp, [type="submit"]{
+    height:25px;
+    position:relative;
+    top: 35px;
+    right:100px
+
+} 
+
+#inp{
+    width:400px;
+}
+/* div{
+    display:g;
+    grid-template-columns: repeat(2);
+    grid-template-rows:auto;
+} */
+/* a div{
+    border:15px solid rgb(107, 10, 10)
+} */
+/* .snipp{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    grid-template-rows:auto;
+    gap:30px:
+} */
